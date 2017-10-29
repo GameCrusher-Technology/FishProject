@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<database>
+	<Group group_id="Fish">
+
+		<Fish item_id="10002"	name="fish2"	 speed="30"	attackSpeed="10"	attack="10"	coin="2"	common="1"	radits="2"	Blood="50"		growtime="24"	bullet="bullet09"	cannonScale = "50"/>
+		<Fish item_id="10005"	name="fish5"	 speed="20"	attackSpeed="10"	attack="10"	coin="5"	common="1"	radits="2"	Blood="70"		growtime="24"	bullet="bullet09"	cannonScale = "60"/>
+		<Fish item_id="10006"	name="fish6"	 speed="25"	attackSpeed="10"	attack="10"	coin="10"	common="1"	radits="3"	Blood="100"		growtime="24"	bullet="bullet09"	cannonScale = "70"/>
+		<Fish item_id="10013"	name="fish13"	 speed="20"	attackSpeed="10"	attack="10"	coin="5"	common="1"	radits="3"	Blood="70"		growtime="24"	bullet="bullet09"	cannonScale = "100"/> 
+		<Fish item_id="10014"	name="fish14"	 speed="30"	attackSpeed="10"	attack="10"	coin="10"	common="1"	radits="3"	Blood="100"		growtime="24"	bullet="bullet09"	cannonScale = "80"/> 
+		<Fish item_id="10015"	name="fish15"	 speed="20"	attackSpeed="10"	attack="10"	coin="20"	common="1"	radits="4"	Blood="150"		growtime="24"	bullet="bullet09"	cannonScale = "70"/> 
+		<Fish item_id="10022"	name="fish22"	 speed="25"	attackSpeed="10"	attack="10"	coin="15"	common="1"	radits="4"	Blood="130"		growtime="24"	bullet="bullet09"	cannonScale = "80"/> 
+		<Fish item_id="10040"	name="fish40"	 speed="20"	attackSpeed="10"	attack="10"	coin="20"	common="1"	radits="4"	Blood="150"		growtime="24"	bullet="bullet09"	cannonScale = "70"/> 
+
+		<Fish item_id="10038"	name="fish38"	 speed="20"	attackSpeed="15"	attack="15"	coin="25"	common="2"	radits="5"	Blood="250"		growtime="24"	bullet="bullet10"	cannonScale = "70	"/> 
+		<Fish item_id="10004"	name="fish4"	 speed="20"	attackSpeed="15"	attack="15"	coin="30"	common="2"	radits="5"	Blood="280"		growtime="24"	bullet="bullet10"	cannonScale = "100"/>		
+		<Fish item_id="10007"	name="fish7"	 speed="40"	attackSpeed="15"	attack="15"	coin="35"	common="2"	radits="5"	Blood="300"		growtime="24"	bullet="bullet10"	cannonScale = "80"/> 
+		<Fish item_id="10008"	name="fish8"	 speed="20"	attackSpeed="15"	attack="15"	coin="40"	common="2"	radits="6"	Blood="350"		growtime="24"	bullet="bullet10"	cannonScale = "70"/> 
+		<Fish item_id="10017"	name="fish17"	 speed="35"	attackSpeed="15"	attack="15"	coin="30"	common="2"	radits="6"	Blood="280"		growtime="24"	bullet="bullet10"	cannonScale = "80"/> 
+		<Fish item_id="10037"	name="fish37"	 speed="15"	attackSpeed="15"	attack="15"	coin="40"	common="2"	radits="6"	Blood="350"		growtime="24"	bullet="bullet10"	cannonScale = "100"/> 
+
+		<Fish item_id="10009"	name="fish9"	 speed="20"	attackSpeed="20"	attack="20"	coin="70"	common="3"	radits="7"	Blood="450"		growtime="24"	bullet="bullet11"	cannonScale = "50"/> 
+		<Fish item_id="10010"	name="fish10"	 speed="40"	attackSpeed="20"	attack="20"	coin="100"	common="3"	radits="7"	Blood="550"		growtime="24"	bullet="bullet11"	cannonScale = "50"/> 
+		<Fish item_id="10018"	name="fish18"	 speed="20"	attackSpeed="20"	attack="20"	coin="150"	common="3"	radits="7"	Blood="600"		growtime="24"	bullet="bullet11"	cannonScale = "50"/> 
+		<Fish item_id="10019"	name="fish19"	 speed="20"	attackSpeed="20"	attack="20"	coin="80"	common="3"	radits="8"	Blood="480"		growtime="24"	bullet="bullet11"	cannonScale = "80"/> 
+		<Fish item_id="10026"	name="fish26"	 speed="20"	attackSpeed="20"	attack="20"	coin="60"	common="3"	radits="8"	Blood="400"		growtime="24"	bullet="bullet11"	cannonScale = "50"/>
+		<Fish item_id="10042"	name="fish42"	 speed="50"	attackSpeed="20"	attack="20"	coin="90"	common="3"	radits="8"	Blood="500"		growtime="24"	bullet="bullet11"	cannonScale = "50"/> 
+
+		<Fish item_id="10020"	name="fish20"	 speed="20"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="700"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10021"	name="fish21"	 speed="30"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="710"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10023"	name="fish23"	 speed="15"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="720"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10024"	name="fish24"	 speed="10"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="730"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10027"	name="fish27"	 speed="10"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="740"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10028"	name="fish28"	 speed="10"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="750"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10029"	name="fish29"	 speed="10"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="760"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10030"	name="fish30"	 speed="10"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="770"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10036"	name="fish36"	 speed="10"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="780"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10039"	name="fish39"	 speed="40"	attackSpeed="30"	attack="25"	coin="100"	common="4"	radits="12"	Blood="790"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10031"	name="fish31"	 speed="30"	attackSpeed="30"	attack="25"	coin="200"	common="4"	radits="12"	Blood="800"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10033"	name="fish33"	 speed="15"	attackSpeed="30"	attack="25"	coin="200"	common="4"	radits="12"	Blood="850"		growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+		<Fish item_id="10034"	name="fish34"	 speed="20"	attackSpeed="30"	attack="25"	coin="500"	common="4"	radits="12"	Blood="1000"	growtime="24"	bullet="bullet12"	cannonScale = "100"/> 
+	</Group>
+
+	<Group group_id="Item">
+		<Item item_id="20001"	name="FishEgg"	gem="50"	message="FishEggmessage"/> 
+	</Group>
+
+	<Group group_id="Bullet">
+		<Bullet item_id="30000" name="bullet01"     speed="200"		attack="20"		net ="Net09"	coin="1"		/>
+		<Bullet item_id="30002" name="bullet03"     speed="220"		attack="25"		net ="Net02"	coin="100000"	/>
+		<Bullet item_id="30003" name="bullet02"     speed="250"		attack="28"		net ="Net05"	gem="1000"		/>
+		<Bullet item_id="30006" name="bullet07"     speed="250"		attack="30"		net ="Net07"	gem="3000"		message="Bullet07Mes"/>
+	</Group>
+
+
+	<Group group_id="Treasure">
+		<Treasure item_id="40000" name="CoinItem01"   coin="50000" />
+		<Treasure item_id="40001" name="CoinItem02"   coin="233333" />
+		<Treasure item_id="40002" name="GemItem01"    gem="500"  />
+		<Treasure item_id="40003" name="GemItem02"    gem="6666"  />
+	</Group>
+
+	<Group group_id="Cannon">
+		<Cannon item_id="50001" name="CannonBase02"    coin="1000" 		attackSpeed="10"	attack="5"	maxLevel="5"/>
+		<Cannon item_id="50003" name="CannonBase04"    coin="100000" 	attackSpeed="20"	attack="20"	maxLevel="7"/>
+		<Cannon item_id="50002" name="CannonBase03"    gem="1000"		attackSpeed="25"	attack="25"	maxLevel="7"/>
+		<Cannon item_id="50000" name="CannonBase01"    gem="3000" 		attackSpeed="40"	attack="50"	maxLevel="9"/>
+	</Group>
+
+	<Group group_id="BulletItem">
+		<Item item_id="60001" name="Bullets02"	  coin="1000" 		count="1000"/>
+		<Item item_id="60002" name="Bullets03"    coin="10000" 		count="12000"/>
+		<Item item_id="60003" name="Bullets02"    gem="10" 			count="1500"/>
+		<Item item_id="60004" name="Bullets03"    gem="100" 		count="20000"/>
+	</Group>
+
+	<Group group_id="Task">
+		<Task item_id="70001" name="Task01"	 require="10002:5|10005:5"  	 	reward="coin:1000|exp:10"	/>
+		<Task item_id="70002" name="Task02"  require="10004:2|10038:2"   	 	reward="coin:2000|exp:20"	/>
+		<Task item_id="70003" name="Task03"  require="10007:2|10008:2"   	 	reward="coin:3000|exp:20|ship:1"	/>
+	</Group>
+
+</database>

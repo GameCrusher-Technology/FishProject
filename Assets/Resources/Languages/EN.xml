@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language>
+	<resourceName key="welcome" value="Welcome"/>
+	<resourceName key="exit" value="Exit"/>
+	<resourceName key="use" value="use"/>
+	<resourceName key="buy" value="buy"/>
+	<resourceName key="using" value="using"/>
+	<resourceName key="notFish" value="/(ㄒoㄒ)/~~"/>
+	<resourceName key="attack" value="attack"/>
+	<resourceName key="shop" value="shop"/>
+	<resourceName key="show" value="show"/>
+	<resourceName key="confirm" value="confirm"/>
+	<resourceName key="complete" value="complete"/>
+	<resourceName key="rewards" value="rewards"/>
+	<resourceName key="levelup" value="levelup"/>
+	<resourceName key="Congratulations" value="Congratulations"/>
+	<resourceName key="open" value="open"/>
+	<resourceName key="release" value="release"/>
+	<resourceName key="capacity" value="capacity"/>
+
+
+	<resourceName key="CoinItem01" value="piles of gold"/>
+	<resourceName key="CoinItem02" value="Gold box"/>
+	<resourceName key="GemItem01" value="piles of gem"/>
+	<resourceName key="GemItem02" value="Gem box"/>
+
+	<resourceName key="CannonBase02" value="default"/>
+	<resourceName key="CannonBase03" value="pirate gold"/>
+	<resourceName key="CannonBase04" value="pirate blue"/>
+	<resourceName key="CannonBase01" value="snowflake"/>
+
+	<resourceName key="bullet01" value="GreenSpark"/>
+	<resourceName key="bullet02" value="BlueThunder"/>
+	<resourceName key="bullet03" value="RedSpark"/>
+	<resourceName key="bullet04" value="RedThunder"/>
+	<resourceName key="bullet05" value="ice"/>
+	<resourceName key="bullet06" value="flash"/>
+	<resourceName key="bullet07" value="piercing arrow"/>
+	<resourceName key="bullet08" value="depth boom"/>
+
+
+	<resourceName key="Title01" value="novice"/>
+	<resourceName key="randomTask" value="alice order"/>
+	<resourceName key="MissionFish" value="Daily Fish Mission"/>
+	<resourceName key="Bullets02" value="Bullets"/>
+	<resourceName key="Bullets03" value="Bullets"/>
+
+	<resourceName key="FishEgg" value="Unknown Case"/>
+	<resourceName key="FishEggmessage" value="Random access to a little fish pet!"/>
+
+	<resourceName key="newland" value="Novice Island"/>
+	<resourceName key="levelUpPET" value="Pet LevelUp"/>
+	<resourceName key="MyPet" value="My Pet"/>
+	<resourceName key="babyroom" value="Baby Room"/>
+	<resourceName key="operationsroom" value="Operations Room"/>
+	<resourceName key="setout" value="Set Out"/>
+	<resourceName key="speedup" value="Speed Up"/>
+
+	<resourceName key="Bullet05Mes" value="Probability frozen"/>
+	<resourceName key="Bullet07Mes" value="Pierce through"/>
+
+	<resourceName key="GemNotEnough" value="Gem is not enough! /(ㄒoㄒ)/~~"/>
+	<resourceName key="CoinNotEnough" value="Coin is not enough! /(ㄒoㄒ)/~~"/>
+	<resourceName key="ExpNotEnough" value="Fish EXP is not enough! /(ㄒoㄒ)/~~"/>
+	<resourceName key="BulletNotEnough" value="No Bullets! /(ㄒoㄒ)/~~"/>
+	<resourceName key="NotMoreBase" value="No more cannon base for battle. Please buy more!"/>
+	<resourceName key="PetEggFull" value="No more room for new baby pet. Please buy more!"/>
+	<resourceName key="extendPetEgg" value="Increase the upper limit of the pet room!"/>
+
+	<resourceName key="guildstep01" value="Welcome to Fish World ! Please click on the chest to receive the first pet fish!"/>
+	<resourceName key="guildstep02" value="Alice Order will reward you with more money and experience!"/>
+	<resourceName key="guildstep04" value="Click the button to quick fishing!"/>
+	<resourceName key="guildstep03" value="Here you can the details of your baby fishes!"/>
+	<resourceName key="guildstep05" value="Recieve the rewards and go home!"/>
+	<resourceName key="remindTofight" value="Please send the pet to fight !"/>
+
+	<resourceName key="conRewards" value="The fish is very much obliged of you.Here is a present for you!"/>
+	<resourceName key="compensate" value="Sorry to have troubled you!  Please receive compensation."/>
+	<resourceName key="paymentError01" value="Platform payment is not initialized. Please contact the platform or feedback game customer service."/>
+	<resourceName key="paymentError02" value="Platform payment unsuccessful. Please contact the platform or feedback game customer service."/>
+	<resourceName key="paymentError03" value="Not this product .Please contact the platform or feedback game customer service."/>
+	<resourceName key="paymentSuc" value="Purchase success. Please contact us if you have any problem."/>
+	<resourceName key="PetLevelUpTip" value="With the level upgrade, pet skill will become more strong!"/>
+	<resourceName key="inputTextMessage" value="Register a cool name!"/>
+	<resourceName key="inputTextPlace" value="click to enter"/>
+	<resourceName key="comingsoon" value="Sorry! The gameplay has not been perfected yet."/>
+	<resourceName key="PetOutMes" value="The fish have grown up and can help fighting !"/>
+	<resourceName key="randomPetEgg" value="Try your luck!!!"/>
+	<resourceName key="Suretorelease" value="Are you sure you want to put it back to the nature?"/>
+	<resourceName key="HelpReward" value="Thanks for helping the trapped fish."/>
+	<resourceName key="MissionTimeOut" value=" (‧‧)nnn Time is up!!! Upgrade the pets and buy Cannon will help you."/>
+	<resourceName key="MissionRewards" value="Congratulations on your completion of the mission."/>
+	<resourceName key="beginShipTask" value="Help me with this series of missions and I can give you a big surprise ! Alice"/>
+
+	<resourceName key="Task01" value="Big Surprise 1 "/>
+	<resourceName key="Task02" value="Big Surprise 2 "/>
+	<resourceName key="Task03" value="Big Surprise 3 "/>
+
+	<resourceName key="NoviceIsland" value="NoviceIsland"/>
+
+	<resourceName key="buyEggCase" value="First you need to buy the case!"/>
+	<resourceName key="speedEggMes" value="The gem cost is based on remaining time!"/>
+	<resourceName key="addOneCannon" value="Add a Pet Cannon Base Forever!"/>
+	<resourceName key="petCannon" value="Pet Cannon"/>
+	<resourceName key="addOneFish" value="Increase the upper limit of the pets!"/>
+	<resourceName key="petFish" value="Fish Buddy"/>
+	<resourceName key="battle" value="Battle"/>
+	<resourceName key="rest" value="Rest"/>
+	<resourceName key="toFight" value="To Fight"/>
+	<resourceName key="toRest" value="To Rest"/>
+
+</language>
